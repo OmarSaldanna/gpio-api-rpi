@@ -1,5 +1,5 @@
 {
-  "name": "voice_light_backend",
+  "name": "gpio-api-rpi",
   "version": "1.0.0",
   "description": "This is an API REST that acces to Raspberry pi GPIOs pins, and uses a database",
   "main": "src/index.js",
